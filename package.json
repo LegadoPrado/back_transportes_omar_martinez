@@ -1,0 +1,24 @@
+{
+  "name": "back_transportes_omar_martinez",
+  "version": "1.0.0",
+  "description": "Administración de servicio de transporte privado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegadoPrado/back_transportes_omar_martinez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LegadoPrado/back_transportes_omar_martinez/issues"
+  },
+  "homepage": "https://github.com/LegadoPrado/back_transportes_omar_martinez#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
